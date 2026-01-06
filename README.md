@@ -1,9 +1,10 @@
 # vspad
-My first PCB project. This is a macropad that I will use to when coding with VSCode in order to make it a more efficient and effective experience. I haven't yet decided exactly what command each key will do, so the code may be edited in the future.
+This is my first PCB project. It is a macropad that I will use when coding with VSCode in order to make it a more efficient and effective experience. I haven't yet decided exactly what command each key will do, so the code may be edited in the future.
 
+![](CAD/3dimage.png)
 ---
 
-# Specifications:
+## Specifications
 
 BOM:
 * 6x cherry MX switches
@@ -14,4 +15,14 @@ BOM:
 * 4x M3x16 Bolt
 * 4x M3 Heatset
 
+---
+## Schematic
+
+![](PCB/schematic.png)
+
+---
+
+## PCB
+
+![](PCB/pcb.png)
 
